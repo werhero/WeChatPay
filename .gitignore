@@ -1,7 +1,13 @@
 # Eclipse project files
-.settings
+.settings/
+.metadate/
+Servers/
 .classpath
 .project
+
+# IDEA project files
+.idea/
+*.iml
 
 # class files
 /bin/
